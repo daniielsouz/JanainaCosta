@@ -35,8 +35,7 @@ footer{
     left: 50%;
     transform: translateX(-50%); 
     display: flex;
-    gap: 100px; 
-    
+    gap: 100px;   
  }
 #midias img{
     width: 40px;
@@ -68,7 +67,7 @@ footer{
     }
     #midias{
         flex-direction: column;
-        bottom: 00px;
+        bottom: 200px;
     }
 
     #midias img{
